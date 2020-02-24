@@ -1,0 +1,4 @@
+WIDTH = 300
+HEIGHT = 300
+
+SCALE = 5
